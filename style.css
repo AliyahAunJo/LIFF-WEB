@@ -3,14 +3,14 @@ html {
   width: 100%;
 }
 
- body{
+ body {
    font-family: 'line_seed_sans_th';
        font-weight: bold;    /*กรณีอยากได้ตัวหนาเปิดตัวนี้มาใช้*/
        font-size: 30px;
       background: rgb(2,0,36);
  }
-      
-	a {
+
+ a {
         text-decoration: none;
   }
 
