@@ -1,6 +1,6 @@
 $(document).ready(function() {
       var path = new URL(window.location);
-      var liffId = path.searchParams.get('line://app/2000548624-JbxE982N?url=');
+      var liffId = path.searchParams.get('url');
         liff.init({
           liffId: "2000548624-JbxE982N" //วางLiffId ตรงนี้
         })
